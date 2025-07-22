@@ -8,30 +8,32 @@ Brief description of the task:
  Implemented linear regression using scikit-learn and evaluated model performance
 
 🛠 Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
+  Python
+  Pandas
+  NumPy
+  Matplotlib
+  Seaborn
+  Scikit-learn
 
 📊 Evaluation Metrics
-R² Score
-Mean Absolute Error (MAE)
-Mean Squared Error (MSE)
-Root Mean Squared Error (RMSE)
+  R² Score
+  Mean Absolute Error (MAE)
+  Mean Squared Error (MSE)
+  Root Mean Squared Error (RMSE)
 
 📈 Visualizations
-Actual vs Predicted Prices
-Residuals Plot
-Residuals Distribution
-Feature Importance (Coefficients)
+  Actual vs Predicted Prices
+  Residuals Plot
+  Residuals Distribution
+  Feature Importance (Coefficients)
 
 
 ## 📂 Folder Structure- SC_ML_1
 house_price.ipynb
+
 ▶️ How to Run
 Clone this repo or download the ZIP
+
 Install dependencies:
       pip install pandas scikit-learn matplotlib seaborn
 Run the model:
